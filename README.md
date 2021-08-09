@@ -14,7 +14,7 @@ This is a list of over 34,000 consumer reviews for Amazon products like the Kind
 
 4. What are the most used words in positive and negative reviews and how many are they?
 
-5.Apply the suitable imabalanced dataset handling method.
+5. Apply the suitable imabalanced dataset handling method.
 
 ### Procedure
 1. Import necessary libraries.
